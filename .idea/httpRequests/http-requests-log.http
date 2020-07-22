@@ -1,0 +1,8 @@
+GET http://localhost:8080/rest/findAll
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-07-21T094054.500.html
+
+###
+
